@@ -8,7 +8,7 @@
     <body>
         <header>
             <?php 
-            $navigation='programmes';
+            $navigation='programme';
             include 'header.php'; ?>
         </header>
         <main class="Programme">

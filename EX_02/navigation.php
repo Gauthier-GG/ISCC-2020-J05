@@ -8,7 +8,7 @@
         <?php endif; ?>
 
         <?php
-        if($navigation=='programmes'): ?>
+        if($navigation=='programme'): ?>
         <li><a style="color:#17C1FF" href="vitrine-programme.php">Programme</a></li>
         <?php else: ?>
             <li><a href="vitrine-programme.php">Programme</a></li>
